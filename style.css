@@ -1,0 +1,121 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    width:100%;
+    background-color: rgb(252, 247, 247);
+}
+section
+{
+    display:inline-block;
+}
+.backg
+{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+}
+h1
+{
+    font-size: 60px;
+}
+p{
+    font-size:20px;
+    width:75%;
+}
+#special
+{
+   background-color: rgb(252, 247, 247);
+   font-family: 'Merriweather', serif;
+}
+.section3h
+{
+    text-align: center;
+    font-weight: 700;
+    font-size:40px;
+    padding-top: 40px;
+}
+.span
+{
+    color:tomato;
+}
+.button a,.button
+{
+    color:black;
+    text-decoration: none;
+    display: block;
+    background-color: rgb(252, 247, 247);
+    float: right;
+    padding-left: 20px;                                  
+    font-size: 25px;
+    margin-right: 40px;
+}
+div
+{
+    height:100%;
+    width: 100%;
+}
+.half
+{
+    width:38%;
+    float:left;
+    padding-left: 150px;
+}
+
+.hireme,a.hireme
+{
+    background-color: rgb(42, 160, 42);
+    color:white;
+    border-radius: 10px;
+    text-align:center;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size:20px;
+   
+}
+.gym
+{
+    float:left;
+    width:20%;
+    padding-left:15px;
+    padding-top:15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    margin-left:60px;
+    box-shadow: 5px 5px 30px gray;
+}
+#one
+{
+     margin-left:190px;
+}
+.image-resize
+{
+    width:300px;
+    height:200px;
+}
+.footer
+{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.imgdiv img
+{
+    width: 50;
+    height: 50px;
+    margin-left: 50px;
+}
+.imgdiv
+{
+           margin-left: 550px;
+ }
+.align h2
+{
+      margin-left: 600px;    
+}
+.align h3
+{
+    margin-left: 665px;
+    margin-top: 100px;
+}
